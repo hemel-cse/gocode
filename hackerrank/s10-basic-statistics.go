@@ -1,3 +1,8 @@
+/*
+ Problem : https://www.hackerrank.com/challenges/s10-basic-statistics
+ Author : Hasibul Amin Hemel
+ */
+
 package main
 import (
     "fmt"
